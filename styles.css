@@ -1,11 +1,17 @@
 .titulo{
     color: green;
     background-color: greenyellow;
-    height: 250px;
+    height: 150px;
 }
 
 p{
-    color: brown;
-    background-color: slategray;
-    height: 900px;
+    color: white;
+    background-color: black;
+    height: 300px;
+}
+
+button{
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
 }
